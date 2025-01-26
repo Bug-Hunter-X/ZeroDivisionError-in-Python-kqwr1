@@ -1,0 +1,1 @@
+This repository contains a simple example of a ZeroDivisionError in Python. The bug.py file contains the erroneous code, while bugSolution.py provides a solution that handles the potential error using a try-except block.  The bug demonstrates the importance of error handling when performing division operations, especially when dealing with user inputs.
